@@ -27,9 +27,9 @@
 
 
 // const person = {
-//   firstname: "Glad",
-//   lastname: "Chinda",
-//   country: "Nigeria",
+//   firstname: "Dima",
+//   lastname: "Leveret",
+//   country: "Canada",
 // };
 
 // const { firstname, lastname, country } = person;
