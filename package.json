@@ -4,7 +4,8 @@
   "description": "Work on mistakes after the interview",
   "main": "script.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "repository": {
     "type": "git",
