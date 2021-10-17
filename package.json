@@ -1,0 +1,26 @@
+{
+  "name": "capgemini-work-on-mistakes",
+  "version": "1.0.0",
+  "description": "Work on mistakes after the interview",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dima-leveret/Capgemini-work-on-mistakes.git"
+  },
+  "keywords": [
+    "tests",
+    "jest"
+  ],
+  "author": "Dima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dima-leveret/Capgemini-work-on-mistakes/issues"
+  },
+  "homepage": "https://github.com/dima-leveret/Capgemini-work-on-mistakes#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
